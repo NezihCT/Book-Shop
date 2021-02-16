@@ -1,0 +1,92 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "price": "$13.79",
+      "publisher": "Zondervan",
+      "publishDate": "September 01, 2010",
+      "page": "540",
+      "language": "Spanish",
+      "bisacCateg": "General",
+      "description": "Combining the thrilling narrative style and imagination of Dan Brown and James Rollins with the intellectual depth of Umberto Ecco and Matthew Pearl, José Rodrigues dos Santos dazzles with his remarkable thriller, The Einstein Enigma. The internationally bestselling author of Codex 632, dos Santos combines cryptology, international espionage, and a secret formula created by the most famous physicist of all time, Albert Einstein--and masterfully fuses science with religion in a breathtaking Da Vinci Code-like mix--in a novel guaranteed to get the heart and the mind both racing furiously.",
+      "img": "https://images-production.bookshop.org/spree/images/attachments/6671711/original/9780061719257.jpg?1573130165"
+    },
+    {
+      "id": 2,
+      "price": "$16.99",
+      "publisher": "William Morrow & Company",
+      "publishDate": "August 11, 2009",
+      "page": "336",
+      "language": "English",
+      "bisacCateg": "General",
+      "description": "Who was the enigma the world knows as Christopher Columbus... and why has his true identity been covered up for centuries?      When an aged scholar is found mysteriously dead in his hotel room, Thomas Noronha, expert cryptographer and professor of history, is called upon to finish the man's unresolved investigation. In the course of unraveling the puzzles and cryptograms shrouding his late predecessor's work, Thomas discovers a code that will set him on a breathtaking race across the globe from Lisbon to Rio to New York.",
+      "img": "https://images-production.bookshop.org/spree/images/attachments/6583785/original/9780061173196.jpg?1588195058"
+    },
+    {
+      "id": 3,
+      "price": "$22.99",
+      "publisher": "Harper Perennial",
+      "publishDate": "September 01, 2010",
+      "page": "464",
+      "language": "English",
+      "description": "From a renowned historian comes a groundbreaking narrative of humanity's creation and evolution--a #1 international bestseller--that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be human. One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one--homo sapiens. What happened to the others? And what may happen to us?",
+      "img": "https://images-production.bookshop.org/spree/images/attachments/4573847/original/9780062316110.jpg?1589082588",
+      "bisacCateg": "World - General Civilization Life Sciences - Evolution"
+    },
+    {
+      "id": 4,
+      "price": "$22.99",
+      "publisher": "Harper Perennial",
+      "publishDate": "September 04, 2018",
+      "page": "464",
+      "language": "English",
+      "description": "Yuval Noah Harari, author of the critically-acclaimed New York Times bestseller and international phenomenon Sapiens, returns with an equally original, compelling, and provocative book, turning his focus toward humanity's future, and our quest to upgrade humans into gods. Over the past century humankind has managed to do the impossible and rein in famine, plague, and war. This may seem hard to accept, but, as Harari explains in his trademark style--thorough, yet riveting--famine, plague and war have been transformed.",
+      "img": "https://images-production.bookshop.org/spree/images/attachments/4313444/original/9780062464347.jpg?1588531013",
+      "bisacCateg": "Life Sciences - Evolution Civilization Future Studies"
+    },
+    {
+      "id": 5,
+      "price": "$26.00",
+      "publisher": "Yale University Press",
+      "publishDate": "May 19, 2020",
+      "page": "246",
+      "language": "English",
+      "description": "New technologies now jeopardize our attention, our discourse, and our democracies. Harnessing information garnered from polling data, internet postings, and insider interviews, Philip N. Howard offers a way to identify and derail \"lie machines\"--and questions how they will evolve as the internet grows increasingly integrated into public life.",
+      "img": "https://images-production.bookshop.org/spree/images/attachments/7951988/original/9780300250206.jpg?1588016312",
+      "bisacCateg": "Media Studies Political Process - Media & Internet Propaganda"
+    },
+    {
+      "id": 6,
+      "price": "$33.00",
+      "publisher": "University of Chicago Press",
+      "publishDate": " June 30, 2020",
+      "page": "248",
+      "language": "English",
+      "description": "We need to talk about racism before it destroys our democracy. And that conversation needs to start with an acknowledgement that racism is coded into even the most ordinary interactions. Every time we interact with another human being, we unconsciously draw on a set of expectations to guide us through the encounter. What many of us in the United States--especially white people--do not recognize is that centuries of institutional racism have inescapably molded those expectations. This leads us to act with implicit biases that can shape everything.",
+      "img": "https://images-production.bookshop.org/spree/images/attachments/7947256/original/9780226703695.jpg?1588086342",
+      "bisacCateg": "Sociology - General Ethnic Studies - African American Studies Anthropology - Cultural & Social"
+    },
+    {
+      "id": 7,
+      "price": "$16.55",
+      "publisher": "Basic Books",
+      "publishDate": "February 26, 2013",
+      "page": "336",
+      "language": "English",
+      "description": "A haunting portrait of Arthur Rosenberg, one of Nazism's chief architects, and his obsession with one of history's most influential Jewish thinkers.In The Spinoza Problem, Irvin Yalom spins fact and fiction into an unforgettable psycho-philosophical drama. Yalom tells the story of the seventeenth-century thinker Baruch Spinoza, whose philosophy led to his own excommunication from the Jewish community, alongside that of the rise and fall of the Nazi ideologue Alfred Rosenberg, who two hundred years later during World War II ordered his task force to plunder Spinoza's ancient library in an effort.",
+      "img": "https://images-production.bookshop.org/spree/images/attachments/3807055/original/9780465061853.jpg?1588013740",
+      "bisacCateg": "Psychological Historical - World War II Literary"
+    },
+    {
+      "id": 8,
+      "price": "$13.99",
+      "publisher": "Hay House Visions",
+      "publishDate": "June 28, 2012",
+      "page": "168",
+      "language": "English",
+      "description": "While on a relaxing vacation in Bali, Julian decides to consult a legendary and wise healer whose reputation precedes him. The old Master Samtyang's diagnosis on meeting the schoolteacher is firm: you are healthy, but you are not happy.During the series of daily encounters that follow, Samtyang meets with Julian and shares cryptic messages, much to the frustration of his new student. In his unusual manner, Samtyang shows Julian--and us--how our thoughts shape our lives and how what we believe becomes our reality. His teachings on the nature of true happiness, which is already inside us; the manifestation of our hopes.",
+      "img": "https://images-production.bookshop.org/spree/images/attachments/10722005/original/9781401938178.jpg?1584601776",
+      "bisacCateg": "Literary Visionary & Metaphysical"
+    }
+  ]
+}

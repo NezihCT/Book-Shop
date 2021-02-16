@@ -1,0 +1,60 @@
+{
+  "library": [
+    {
+      "id": 1,
+      "isActive": true,
+      "img": "https://images-production.bookshop.org/spree/images/attachments/6671711/original/9780061719257.jpg?1573130165",
+      "bookName": "The Einstein Enigma",
+      "writer": "José Rodrigues Dos Santos"
+    },
+    {
+      "id": 2,
+      "isActive": true,
+      "img": "https://images-production.bookshop.org/spree/images/attachments/6583785/original/9780061173196.jpg?1588195058",
+      "bookName": "Codex 632: The Secret of Christopher Columbus: A Novel",
+      "writer": "José Rodrigues Dos Santos"
+    },
+    {
+      "id": 3,
+      "isActive": true,
+      "img": "https://images-production.bookshop.org/spree/images/attachments/4573847/original/9780062316110.jpg?1589082588",
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "writer": "Yuval Noah Harari "
+    },
+    {
+      "id": 4,
+      "isActive": true,
+      "img": "https://images-production.bookshop.org/spree/images/attachments/4313444/original/9780062464347.jpg?1588531013",
+      "bookName": "Homo Deus: A Brief History of Tomorrow",
+      "writer": "Yuval Noah Harari"
+    },
+    {
+      "id": 5,
+      "isActive": true,
+      "img": "https://images-production.bookshop.org/spree/images/attachments/7951988/original/9780300250206.jpg?1588016312",
+      "bookName": "Lie Machines",
+      "writer": "Philip N. Howard "
+    },
+    {
+      "id": 6,
+      "isActive": true,
+      "img": "https://images-production.bookshop.org/spree/images/attachments/7947256/original/9780226703695.jpg?1588086342",
+      "bookName": "Tacit Racism",
+      "writer": "Anne Warfield Rawls / Waverly Duck"
+    },
+    {
+      "id": 7,
+      "isActive": true,
+      "img": "https://images-production.bookshop.org/spree/images/attachments/3807055/original/9780465061853.jpg?1588013740",
+      "bookName": "The Spinoza Problem",
+      "writer": "Irvin D. Yalom"
+    },
+    {
+      "id": 8,
+      "isActive": true,
+      "img": "https://images-production.bookshop.org/spree/images/attachments/10722005/original/9781401938178.jpg?1584601776",
+      "bookName": "The Man Who Wanted to Be Happy",
+      "writer": "Laurent Gounelle"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+.App {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.full-screen {
+  height: calc(100vh - 60px);
+}
+
+#home {
+  background-color: #573ba3;
+}
+
+#homepg {
+  color: #ffeee6;
+}
+
+#homeTitle {
+  color: #ffeee6;
+}
+
+.cardImage {
+  max-width: 50% !important;
+}
+
+.contact {
+  background-color: #f2f2f2;
+  height: 100%;
+}
+.mistake {
+  background-color: #f2f2f2;
+  height: 88.5vh;
+}
+/* .about {
+  background-color: #f2f2f2;
+  height:88.5vh;
+  width: 90vw !important;
+} */
+
+.appcont {
+  background-color: #f2f2f2;
+  overflow-y: hidden !important;
+}
+
+#profile {
+  object-fit: contain;
+}
+
+.icons {
+  margin-top: -2 !important;
+}
+
+#buttomnav {
+  background-color: #f2f2f2 !important;
+}
+
+#abouth1 {
+  color: #7e6e77;
+}
+.detail1 {
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+.bg-gray {
+  background-color: #f2f2f2;
+}
+
+#card {
+  background-color: #f4e6f8;
+}
+
+.detailImg {
+  max-height: 50%;
+}
+
+.responsive-font {
+  font-size: 1.25rem;
+}
+
+#search1 {
+  width: 18rem !important;
+}
+#search {
+  font-style: italic;
+  letter-spacing: 1px;
+}
+
+#button-addon {
+  background-color: #573ba3;
+  border: 1px solid #f4e6f8;
+  color: #ffeee6;
+}
+#button-addon:hover {
+  background-color: #201f1f;
+}
+
+/* #search1{
+  display:inline-block
+}
+
+
+#searchb {
+  height: 2.75rem;
+} */
